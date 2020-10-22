@@ -1,1 +1,4 @@
 *.xml
+tmp/*.txt
+*.yaml
+*.xml
